@@ -1,1 +1,2 @@
-# Lesson5
+
+My first GIT repository commands practised 
